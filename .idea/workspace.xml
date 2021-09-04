@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ef3e868-3409-4301-a0f0-9a257b2d5e7b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xYdNEu3Hws7ZmmbMJIB9heeSAi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="16" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lib.apicommondemo.WebServises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RestJavaxRsTest.shouldReturnDefaultMessage">
+    <configuration name="RestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rest.RestClient" />
+      <module name="Api-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestPostClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rest.RestPostClient" />
+      <module name="Api-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestJavaxRsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Api-common-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lib.apicommondemo.WebServises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lib.apicommondemo.WebServises" />
+      <option name="MAIN_CLASS_NAME" value="com.lib.apicommondemo.WebServises.RestJavaxRsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestJavaxRsTest.TestRestReqRes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Api-common-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lib.apicommondemo.WebServises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lib.apicommondemo.WebServises" />
+      <option name="MAIN_CLASS_NAME" value="com.lib.apicommondemo.WebServises.RestJavaxRsTest" />
+      <option name="METHOD_NAME" value="TestRestReqRes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestJavaxRsTest.shouldReturnDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Api-common-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lib.apicommondemo.WebServises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lib.apicommondemo.WebServises" />
+      <option name="MAIN_CLASS_NAME" value="com.lib.apicommondemo.WebServises.RestJavaxRsTest" />
+      <option name="METHOD_NAME" value="shouldReturnDefaultMessage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiCommonDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Api-common-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lib.apicommondemo.ApiCommonDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RestJavaxRsTest.shouldReturnDefaultMessage" />
+        <item itemvalue="Application.RestClient" />
+        <item itemvalue="JUnit.RestJavaxRsTest.TestRestReqRes" />
+        <item itemvalue="JUnit.RestJavaxRsTest" />
+        <item itemvalue="Application.RestPostClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ef3e868-3409-4301-a0f0-9a257b2d5e7b" name="Changes" comment="" />
+      <created>1630535915485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630535915485</updated>
+      <workItem from="1630535916912" duration="47000" />
+      <workItem from="1630536021078" duration="164000" />
+      <workItem from="1630536245274" duration="3897000" />
+      <workItem from="1630575725354" duration="4508000" />
+      <workItem from="1630616700489" duration="8151000" />
+      <workItem from="1630626436116" duration="1074000" />
+      <workItem from="1630627616018" duration="8731000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Connect_api_parent$RestPostClient.ic" NAME="RestPostClient Coverage Results" MODIFIED="1630628249454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Connect_api_parent$ApiCommonDemoApplication.ic" NAME="ApiCommonDemoApplication Coverage Results" MODIFIED="1630626977415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Connect_api_parent$RestClient.ic" NAME="RestClient Coverage Results" MODIFIED="1630623425125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Connect_api_parent$RestRequest.ic" NAME="RestRequest Coverage Results" MODIFIED="1630620078876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Rest.*</FILTER>
+    </SUITE>
+  </component>
+</project>
